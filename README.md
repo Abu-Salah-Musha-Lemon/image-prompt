@@ -21,7 +21,7 @@ Photorealistic Prompt:
 #### 9.Prompt:
 "A minimalist indoor spa featuring a sleek white marble Jacuzzi set into the floor. The room has clean architectural lines, soft natural lighting from a large skylight, and subtle neutral tones like beige, cream, and light gray. The walls are smooth plaster or stone, with a few carefully placed green plants for a touch of nature. The overall vibe is tranquil, modern, and elegant, with a sense of luxury and calm."
 #### 10.Prompt:
-<p>"A traditional Muslim dress for men, featuring a beautifully tailored thobe in a soft, light fabric, with intricate embroidery on the cuffs and collar. The thobe is a rich, deep shade of white, symbolizing purity, with a relaxed yet elegant fit. The man is wearing a keffiyeh or ghutra (head scarf) draped gracefully over his head, secured with an agal (black cord). The ensemble is paired with simple yet refined leather sandals. The setting is serene, with a hint of traditional Islamic architecture in the background, and the image evokes a sense of peace and dignity."</p>
+"A traditional Muslim dress for men, featuring a beautifully tailored thobe in a soft, light fabric, with intricate embroidery on the cuffs and collar. The thobe is a rich, deep shade of white, symbolizing purity, with a relaxed yet elegant fit. The man is wearing a keffiyeh or ghutra (head scarf) draped gracefully over his head, secured with an agal (black cord). The ensemble is paired with simple yet refined leather sandals. The setting is serene, with a hint of traditional Islamic architecture in the background, and the image evokes a sense of peace and dignity."
 #### 11.Prompt:
 #### 12.Prompt:
 #### 13.Prompt:
