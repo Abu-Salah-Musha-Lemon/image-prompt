@@ -23,6 +23,9 @@ Photorealistic Prompt:
 #### 10.Prompt:
 "A traditional Muslim dress for men, featuring a beautifully tailored thobe in a soft, light fabric, with intricate embroidery on the cuffs and collar. The thobe is a rich, deep shade of white, symbolizing purity, with a relaxed yet elegant fit. The man is wearing a keffiyeh or ghutra (head scarf) draped gracefully over his head, secured with an agal (black cord). The ensemble is paired with simple yet refined leather sandals. The setting is serene, with a hint of traditional Islamic architecture in the background, and the image evokes a sense of peace and dignity."
 #### 11.Prompt:
+`
+Write a persuasive and informative marketing copy in Bengali for a professional swimming pool construction company in Bangladesh. The tone should be friendly but professional, warning customers against inexperienced local workers who build poor-quality pools (like concrete tubs without proper water circulation). Emphasize the importance of expert advice and proper system design (mention skimmer, overflow, and infinity pool types). Highlight how bad construction leads to dirty, green water. Include a call to action for visiting a gallery, consulting with the team, and buying pool-related products. Mention that the company also offers jacuzzi, sauna, steam bath, and fountain services. Include contact information, website, social media links, and relevant hashtags in Bengali. Use informal, conversational language common in social media ads.
+`
 #### 12.Prompt:
 #### 13.Prompt:
 #### 14.Prompt:
