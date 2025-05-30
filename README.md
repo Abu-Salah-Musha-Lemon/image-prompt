@@ -44,6 +44,38 @@ A young girl, likely pre-teen, with a light complexion, sits on the edge of a po
 #### 16.Prompt:
 #### 17.Prompt:
 #### 18.Prompt:
+# 🧠 Prompt Library for Visual Generation
+
+This repository contains a curated collection of AI image generation prompts tailored for producing high-quality, photorealistic, and stylized visuals. Ideal for use with platforms like DALL·E, Midjourney, Stable Diffusion, etc., this library covers themes such as spas, saunas, jacuzzis, pool environments, cultural fashion, and social media marketing.
+
+---
+
+## 📁 Prompt Index
+
+| ID | Title                                  | Description                                               |
+|----|----------------------------------------|-----------------------------------------------------------|
+| 1  | Luxurious Sauna Interior               | Elegant wooden sauna with a panoramic snowy forest view   |
+| 2  | Sauna Interior with Negative Keywords  | Same as #1, but includes filters to remove poor outputs   |
+| 3  | Technical Sauna Room Details           | Sauna design with heaters, steam systems, ventilation     |
+| 4  | Steam Room with People                 | Two women in a foggy steam room, realistic soft lighting  |
+| 5  | Outdoor Jacuzzi                        | Romantic Jacuzzi on deck at sunset, mountain view         |
+| 6  | Marble Jacuzzi Indoor Spa (No People)  | Clean, neutral-toned spa room with circular Jacuzzi       |
+| 7  | Minimalist Indoor Spa Scene            | Sunken marble Jacuzzi, soft daylight from skylight        |
+| 8  | Soft-Lit Minimal Spa Design            | Elegant spa with natural lighting, calm mood              |
+| 9  | Modern Spa Interior                    | White marble Jacuzzi and indoor plants                    |
+| 10 | Traditional Muslim Men's Attire        | Thobe, keffiyeh, Islamic fashion in peaceful setting      |
+| 11 | Bengali Marketing Copy for Pool Brand  | Persuasive pool company ad copy in Bengali                |
+| 12 | Pool Chemical Bottle Scene             | Minimalist, top-view of a floating plastic bottle         |
+| 13 | Girl at Poolside (Vintage Style)       | Cheerful young girl sitting at a pool, promotional tone   |
+
+---
+
+## 🔍 Sample Prompt Format
+
+All prompts are carefully written to ensure clarity, realism, and optimized results. Some include **negative prompts** to prevent generation of low-quality images (e.g., blurry, cartoonish).
+
+### Prompt Example
+
 
 
 
