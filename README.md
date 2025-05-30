@@ -1,6 +1,8 @@
 # image-prompt
 #### 1.Prompt:
+```
 "A luxurious modern sauna with elegant wood paneling, ambient golden lighting, soft steam rising, and panoramic glass windows overlooking a snowy forest. Plush white towels, a bowl of fresh eucalyptus, and minimalistic design elements. High-end spa atmosphere, peaceful and serene. Square format, 1080x1080 resolution."
+```
 
 #### 2.Prompt:
 ```"luxurious modern sauna, elegant wooden interior, ambient golden lighting, soft steam, panoramic glass window, snowy forest outside, plush white towels, eucalyptus leaves, minimalistic spa design, serene atmosphere, high-end wellness, square image, 1080x1080.blurry, low resolution, cartoon, unrealistic, messy, cluttered, dark, overexposed, underexposed, text, watermark"```
